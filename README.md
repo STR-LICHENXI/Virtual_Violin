@@ -33,4 +33,34 @@ It then uses `pygame.sndarray` to convert these mathematical arrays into playabl
    `pip install opencv-python mediapipe numpy pygame`
 2: Run
 3: Show your hands towards the camera ( I do recommand you to watch the sample video inside this repository first) . Use your left fingers to make gestures responding to different sounds, while slowly wave your right hand to play. Raise your left thumb to pause the sound instantly. 
+
+
+Here is the music score of the exact same piece I performed in the sample video. It's a small fragment of minecraft's famouse background music "mice on venus" . 
+1111 (fa)
+1110 (mi)
+1000 (do)
+1000 (do)
+1000 (do)
+1110 (mi)
+1000 (do)
+1110 (mi)
+0111 (so)
+1001 (re_high)
+1101 (mi_high)
+1001 (re_high)
+0101 (so_high)
+0001 (do_high)
+0011 (la)
+1101 (mi_high)
+1001 (re_high)
+0001 (do_high)
+0001 (do_high)
+0001 (do_high)
+0011 (la)
+0111 (so)
+1111 (fa)
+0111 (so)
+1110 (mi)
+
+
    
