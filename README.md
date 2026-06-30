@@ -38,6 +38,7 @@ It then uses `pygame.sndarray` to convert these mathematical arrays into playabl
 
 
 Here is the music score of the exact same piece I performed in the sample video. It's a small fragment of minecraft's famouse background music "mice on venus" . 
+
 1111 (fa)
 
 1110 (mi)
