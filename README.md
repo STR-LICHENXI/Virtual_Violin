@@ -17,7 +17,7 @@ It uses OpenCV , MediaPipe , Pygame&Numpy .
 Left Hand (To control pitch):
 The program reads the binary state (bent or straight) of your 4 fingers like 1101 0101 etc.
 These combinations are mapped to specific musical notes (from `do` to `high mi`).
-(I initially mapped all 16 possible binary combinations, but realized some gestures (like     bending only the ring finger) are physically anti-human. So, I redesigned the `GESTURE_MAP` to only include comfortable finger combinations, assigning the awkward ones to less used notes )
+(I initially mapped all 16 possible binary combinations, but realized some gestures (like raising only the ring finger) are physically anti-human. So, I redesigned the `GESTURE_MAP` to only include comfortable finger combinations, assigning the awkward ones to less used notes )
 -Sticking your thumb out acts as a "Rest" signal, instantly muting the audio.
 
 Right Hand (The bow):
